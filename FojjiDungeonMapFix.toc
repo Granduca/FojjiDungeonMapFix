@@ -1,0 +1,9 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: Fojji Dungeon Map Fix
+## Notes: Uses OpenMap's bundled dungeon tiles in Fojji on non-English WoW Forever clients.
+## Author: Local compatibility addon
+## Version: 0.1.0
+## Dependencies: FojjiCore_DungeonJournal, OpenMap
+
+Core.lua
